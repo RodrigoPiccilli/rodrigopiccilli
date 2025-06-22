@@ -27,7 +27,7 @@ I’m eager to apply my skills in full-stack development and continuously grow b
 > [!IMPORTANT]  
 > <a href="" download>Download My Resume</a>
 
-## Skills 🧑‍💻 
+## 🧑‍💻 Skills  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -71,12 +71,48 @@ I’m eager to apply my skills in full-stack development and continuously grow b
 
 ## 👷 Featured Projects 
 
+- ## [GPA Calculator](https://github.com/RodrigoPiccilli/gpa-calculator)
+
+  GPA Calculator based on NCSU's grading system.
+  <br><br>
+  [Docs](https://github.com/RodrigoPiccilli/gpa-calculator/blob/main/README.md)
+    
+---
+
+- ## [Pomodoro Timer](https://github.com/RodrigoPiccilli/pomodoro-timer)
+
+  A simple productivity timer that follows the Pomodoro Technique — 25 minutes of focused work followed by a 5-minute break. The app lets users start, pause, and reset a countdown timer, and visually tracks the current session (work or break).
+  <br><br>
+  [Docs](https://github.com/RodrigoPiccilli/pomodoro-timer/blob/main/README.md)  
+---
+
+- ## [Rock Paper Scissors Game](https://github.com/RodrigoPiccilli/rock-paper-scissors)
+
+  A simple and interactive Rock Paper Scissors game built with a React frontend and an Express backend, featuring both single-player and multiplayer modes.
+  <br><br>
+  [Docs](https://github.com/RodrigoPiccilli/rock-paper-scissors/blob/main/README.md)
+    
+---
+
 ## 🎯 Current Focus 
 
 I'm currently focused on strengthening my understanding of data structures and algorithms. I'm actively solving LeetCode problems and working through the Algorithms, Part I course by Princeton University on Coursera to sharpen my problem-solving and coding efficiency.
 
 ## 📊 GitHub Stats
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopiccilli)](https://github.com/rodrigopiccilli/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopiccilli&layout=donut)](https://github.com/rodrigopiccilli/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/rodrigopiccilli/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigopiccilli" />
+  </a>
+  <a href="https://github.com/rodrigopiccilli/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigopiccilli&layout=compact&langs_count=8&card_width=320" />
+  </a>
+
+  </div>
 
 ## 🤖 Research  
+- ## [AI Play](https://sites.google.com/ncsu.edu/intellimedia-aiplay/home)
+  The AI Play project aims to prepare middle school students—especially those from rural and underserved communities—for a future shaped by artificial intelligence. By integrating AI concepts into fun, game-based learning activities, the program helps students build foundational knowledge, develop positive attitudes toward AI, and explore AI-related careers.
+  <br><br>
+  <a href="https://drive.google.com/uc?export=download&id=1afk1haspACz3CRiPLQY8QG2QNWcU7YCJ" download>WiPSCE Paper</a>
+    
+---
