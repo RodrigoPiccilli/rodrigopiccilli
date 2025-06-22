@@ -98,17 +98,6 @@ I’m eager to apply my skills in full-stack development and continuously grow b
 
 I'm currently focused on strengthening my understanding of data structures and algorithms. I'm actively solving LeetCode problems and working through the Algorithms, Part I course by Princeton University on Coursera to sharpen my problem-solving and coding efficiency.
 
-## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/rodrigopiccilli/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigopiccilli" />
-  </a>
-  <a href="https://github.com/rodrigopiccilli/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigopiccilli&layout=compact&langs_count=8&card_width=320" />
-  </a>
-
-  </div>
-
 ## 🤖 Research  
 - ## [AI Play](https://sites.google.com/ncsu.edu/intellimedia-aiplay/home)
   The AI Play project aims to prepare middle school students—especially those from rural and underserved communities—for a future shaped by artificial intelligence. By integrating AI concepts into fun, game-based learning activities, the program helps students build foundational knowledge, develop positive attitudes toward AI, and explore AI-related careers.
